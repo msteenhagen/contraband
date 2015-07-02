@@ -116,16 +116,7 @@ By reflecting on auditory perception, I have uncovered the possibility of percep
 
 In 1792 the French Academy of Sciences employed the visual artist Pierre-Joseph Redouté to produce a series of botanical watercolours. Praised for their accuracy, Redouté's meticulous renderings of blooms were expressly designed for scientific instruction and education [cf. @mallary1986aa]. Many of the plants and flowers he painted were hard to conserve, grew abroad, or blossomed only for a very brief period. In part by co-operating with learned communities, Redouté produced botanical images that still successfully function as substitutes for real-life study and botanical observation [see @kusukawa2012aa, chs 7-8 for a discussion of similar examples of early collaborations between modern science and art]. 
 
-Take for instance the image he painted of a _Myosotis Scorpioides_, a small flower better known as the Forget-me-not (Fig. \ref{fig:redoute}). It is natural to conceive of such a drawing, or a good reproduction of it, as allowing us visually to scrutinise the flower's anatomy, and look at the form and arrangement of its distinctive blueish petals. 
-
-<!-- Latex figure -->
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=\textwidth]{Img/redoute.jpg}
-    \caption{Pierre-Joseph Redouté, \emph{Le ne m'oubliez pas} (Forget-me-not). In: \emph{Choix des Plus Belles Fleurs,} 1827-1833. Paris}
-    \label{fig:redoute}
-\end{figure}
-<!-- End Latex figure -->
+Take for instance the image he painted of a _Myosotis Scorpioides_, a small flower better known as the Forget-me-not (Fig. \ref{fig:redoute}). It is natural to conceive of such a drawing, or a good reproduction of it, as allowing us visually to scrutinise the flower's anatomy, and look at the form and arrangement of its distinctive blueish petals.
 
 That we naturally conceive of Redouté's watercolours as fostering visual scrutiny of plants and their parts suggests we think of these images as making these plants visible to us. No doubt this understanding is to a large extent rooted in the fact that we find ourselves able to engage with those represented plants in a visual way. Presented with Redouté's work, we seem able to look at features of these plants; trace their shapes with our eyes; visually compare the relative proportions and colours of their stems and flowers. No doubt that students at the time could see that it was a mere drawing they were presented with. If they so liked, they could also specifically look at and appreciate these drawings for what they were, perhaps coming to admire Redouté's technique in creating them. Yet this does not take away that Redouté's plate seems to afford an opportunity for perceiving a Forget-me-not. 
 
@@ -144,15 +135,6 @@ I do not suggest that it is probable that Redouté's images function in vision a
 We have good grounds to assume that the mediating function of images is perfectly general, and is not restricted to scientific contexts, or contexts in which observation serves an epistemic purpose. Indeed, being an image _just is_ being a perceptual mediator in vision, regardless of the specific scientific, communicative or aesthetic practices in which we use it (I will come back to this distinction in \autoref{chap:structure}). Consider a very different example, Paul Cézanne's unfinished masterpiece _Les Grandes Baigneuses_ (Fig. \ref{fig:cezanne}). 
 
 Cézanne's painting may strike you as no more than a jumble of painted fields, especially if you merely see it from the corner of your eye. Such a superficial view on the painting is likely to be short-lived. The stark contours of legs and arms and buttocks almost hurl the gist of the scene at us: a chaotic group of nudes. So far so good. But how many? Where? What are they doing? It is as if Cézanne mixed such questions with his oils. Just as the eye distinguishes tones and hues, it is naturally set to search for their answers. Cézanne often plays on how visual individuation is an active process. The bathers are visible, but ill-defined. Discerning individual bodies requires us to retrace their boundaries---an ocular analysis. On the other hand, their surrounds require the different treatment of successive scanning. We need to built up a comprehensive view of the landscape, and here the group's dynamic placement is a natural aid. As Adrian Stokes writes of the group, "[t]hey absorb, and in absorbing rule, monumental, the environment" [-@stokes1972aa]. The human form points us to features of the landscape. In so opening ourselves to their cues, our sensibility for human gazes is of particular importance. Self-consciously following Titian's example, Cézanne exploits the play of eyes of his figures. It is a powerful device, as it draws on our sensitivity to visible social clues. We cannot but follow the gazes of the seated figures, our eyes stumbling upon an indistinct shape (a goose? a dog?) which they stroke from all sides. Yet, at the same time, the social dynamic interrupts our scanning of environment; suddenly our gaze interlocks with that of the right figure leaning against the tree. Someone is looking at us too.
-
-<!-- Latex figure -->
-\begin{figure}[h!]
-  \centering
-    \includegraphics[width=\textwidth]{Img/bathers.png}
-    \caption{Paul Cézanne, \emph{Les Grandes Baigneuses} (The Bathers), 1898–1905. Philadelphia Museum of Art}
-    \label{fig:cezanne}
-\end{figure}
-<!-- End Latex figure -->
 
 Here we have a purely aesthetic example, in contrast with the partly scientific one discussed above. Our eyes move across the panel, but this movement is guided not by the panel, but by the scene it represents [a fact brought out well in eye-tracking studies of how we look at images; see @yarbus1967aa; @deangelus2009aa]. Our eyes are drawn in by the painting, looking from figure to figure. We visually trace the contours and outlines of a group in a landscape. Our exploration can seek for a narrative, or it can be guided merely by formal features, or an urge to identify, or all of these. What matters is that in every instance our exploration serves a crucial perceptual function. In our activity we uncover the represented scene. It is by looking at the painting that we get the figures that Cézanne set out to represent in view. In general, it is only because we are able to look at some scene wholly distinct from the image that the scene it represents becomes visible to us.
 
